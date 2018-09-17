@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "C:\\Users\\cz87349\\Desktop\\swagger.yaml",
+    "name": "petStore",
+    "repo": "APIs.guru/PetStore",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
